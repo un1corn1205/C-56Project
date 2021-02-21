@@ -1,0 +1,24 @@
+body{
+text-align:center;
+background-color:azure;
+    color:darkturquoise;
+}
+
+ .image-section{
+   display: flex;
+     justify-content: center;
+    }
+
+.section-style{
+margin-left: 25px;
+    margin-right:25px;
+}
+
+img{
+width:450px;
+height:300px;
+border-radius:50px;
+padding:10px;
+border-style:dotted;
+border-color:darkturquoise;
+}
